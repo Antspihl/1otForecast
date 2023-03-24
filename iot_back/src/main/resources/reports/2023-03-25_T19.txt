@@ -1,0 +1,2 @@
+Average min temperature: 4,
+Average max temperature: 6
